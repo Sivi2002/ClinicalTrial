@@ -1,0 +1,2 @@
+node_modules/
+# .env/  for now removed this as we want to keep env files in repo but later on we can add this to prevent from pushing on github

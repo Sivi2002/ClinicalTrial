@@ -25,7 +25,7 @@ It loads a dataset of clinical trials and shows key insights:
 ## 1. Clone the project
 ```bash
 git clone https://github.com/Sivi2002/ClinicalTrial.git
-cd siro_test
+cd ClinicalTrial
 
 cd backend
 npm install
