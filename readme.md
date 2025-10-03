@@ -45,3 +45,6 @@ curl http://localhost:5000/api/analytics/demographics
 cd ../frontend
 npm install
 npm start
+
+
+<img width="1349" height="500" alt="image" src="https://github.com/user-attachments/assets/ef0ea9a2-ebea-4165-bab5-da2c7c5d57e1" />
